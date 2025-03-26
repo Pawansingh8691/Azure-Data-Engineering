@@ -83,8 +83,4 @@ Visualize in Power BI (Optional)
 
 Connect Power BI to the SQL Database for reporting.
 
-Future Enhancements
-✅ Automate the pipeline using Azure Data Factory triggers
-✅ Implement incremental data ingestion
-✅ Add real-time data streaming with Event Hubs
-✅ Enhance visualizations using Power BI dashboards
+Thanks
